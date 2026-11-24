@@ -1,0 +1,20 @@
+# prywatne ścieżki
+.config.ini
+
+# dane i wyniki (mogą zawierać dane firmowe i osobowe)
+*.csv
+*.CSV
+*.xlsx
+*.XLSX
+*.db
+
+# logi i kopie notebooka z uruchomień przez cron
+logi/
+.venv/
+
+# pliki robocze Jupytera
+.ipynb_checkpoints/
+
+__pycache__/
+.pytest_cache/
+README (Kopia).md

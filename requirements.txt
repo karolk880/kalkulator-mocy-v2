@@ -1,0 +1,6 @@
+pandas
+openpyxl
+pytest
+# do uruchamiania notebooka z wiersza poleceń (uruchom.sh, cron)
+nbconvert
+ipykernel
